@@ -1,0 +1,10 @@
+title       = "letv"
+baseURL     = "https://letv-cli.tamnd.com/"
+description = "LeTV (乐视) video content from the terminal"
+contentDir  = "content"
+outputDir   = "public"
+theme       = "tago-doks"
+syntaxHighlight = "true"
+
+[params]
+github = "https://github.com/tamnd/letv-cli"
